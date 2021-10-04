@@ -1,4 +1,4 @@
-Python GTPS Status Bot
+Python GTPS Status Bot (BETA)
 > Python GTPS Status Bot
 
 ## Require
