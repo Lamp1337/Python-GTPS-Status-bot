@@ -27,3 +27,7 @@ KIPAS & NumeX
 https://github.com/Numexx
 (i dont know kipas github)
 ```
+
+<img align="left" alt="GTPS BOT" width="450px" src="https://cdn.discordapp.com/attachments/894058034047901696/894535772437360640/unknown.png" />
+<br>
+<img align="left" alt="GTPS BOT" width="450px" src="https://cdn.discordapp.com/attachments/894058034047901696/894535724135776276/unknown.png" />
