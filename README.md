@@ -19,7 +19,7 @@ Python
 
 ## Note
 ```
-DM MY DISCORD IF YOU CANT SETUP, I WILL HELP.. MY DISCORD IS Lamp#1442
+DM MY DISCORD IF YOU CANT SETUP, I WILL HELP SETUP ON YOUR VPS/RDP.. MY DISCORD IS Lamp#1442
 ```
 ## Information
 > [![dc](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/885830821704003614/)
